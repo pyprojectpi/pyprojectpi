@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="25%">
-      <img src="profile.jpg" width="100%" alt="Surya A" />
+      <img src="profile.jng" width="100%" alt="Surya A" />
     </td>
     <td>
       <h1>Hi 👋, I'm SURYA A</h1>
