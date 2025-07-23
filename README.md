@@ -7,7 +7,7 @@
       <h1>Hi 👋, I'm <b>SURYA A</b></h1>
       <h3>Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
       <p>
-        🎓 Final year B.E. student, <b>University College of Engineering, Kancheepuram</b><br>
+        🎓 B.E. Graduate, <b>University College of Engineering, Kancheepuram</b><br>
         💡 Interested in <b>Artificial Intelligence</b>, <b>Computer Vision</b>, and <b>IoT Projects</b><br>
         🧪 Key Projects: Brain Tumor Detection, Autonomous Car, EEG-Controlled Home Automation, Currency Recognition<br>
         📫 <b>Email:</b> suryaarumugam2021@gmail.com<br>
