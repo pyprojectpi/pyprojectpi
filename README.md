@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm SURYA A</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
+<table>
+  <tr>
+    <td width="25%">
+      <img src="profile.jpg" width="100%" alt="Surya A" />
+    </td>
+    <td>
+      <h1>Hi 👋, I'm SURYA A</h1>
+      <h3>Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0F92D2&size=22&center=true&vCenter=true&lines=Final+Year+ECE+Student;AI+%7C+ML+%7C+CV+Projects;Raspberry+Pi+Developer;Open+to+Learn+%26+Collaborate" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Final year B.E. student, **University College of Engineering, Kancheepuram**
-- 💡 Passionate about **Artificial Intelligence**, **Computer Vision**, and **IoT Projects**
-- 🧪 Project areas: **Brain Tumor Detection**, **Self-Driving Vehicles**, **EEG Signal Processing**, and **Currency Recognition**
-- 📫 Contact me: **suryaarumugam2021@gmail.com**
-- 🌐 Portfolio: [thunderous-cascaron-dc8b57.netlify.app](https://thunderous-cascaron-dc8b57.netlify.app/)
+      <p>
+        🎓 Final year B.E. student, <b>University College of Engineering, Kancheepuram</b><br>
+        💡 Interested in <b>Artificial Intelligence</b>, <b>Computer Vision</b>, and <b>IoT Projects</b><br>
+        🧪 Key Projects: Brain Tumor Detection, Autonomous Car, EEG-Controlled Home Automation, Currency Recognition<br>
+        📫 <b>Email:</b> suryaarumugam2021@gmail.com<br>
+        🌐 <b>Portfolio:</b> <a href="https://thunderous-cascaron-dc8b57.netlify.app/">thunderous-cascaron-dc8b57.netlify.app</a><br>
+        📄 <b>Download Resume:</b> <a href="Surya_Resume.pdf" download>Click here to download</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
