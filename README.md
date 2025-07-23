@@ -4,9 +4,8 @@
       <img src="profile.png" width="100%" alt="Surya A" />
     </td>
     <td>
-      <h1>Hi 👋, I'm SURYA A</h1>
+      <h1>Hi 👋, I'm <b>SURYA A</b></h1>
       <h3>Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
-
       <p>
         🎓 Final year B.E. student, <b>University College of Engineering, Kancheepuram</b><br>
         💡 Interested in <b>Artificial Intelligence</b>, <b>Computer Vision</b>, and <b>IoT Projects</b><br>
@@ -23,7 +22,7 @@
 
 ### 🛠️ Tools & Technologies
 
-#### Languages & Tools
+#### 🧑‍💻 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-#### Frameworks & Libraries
+#### 📦 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
