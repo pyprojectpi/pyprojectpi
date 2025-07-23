@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm SURYA A</h1>
 <h3 align="center">Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
 
@@ -13,7 +12,7 @@
 - 🎓 Final year B.E. student, **University College of Engineering, Kancheepuram**
 - 💡 Passionate about **Artificial Intelligence**, **Computer Vision**, and **IoT Projects**
 - 🧪 Project areas: **Brain Tumor Detection**, **Self-Driving Vehicles**, **EEG Signal Processing**, and **Currency Recognition**
-- 📫 Contact me: **[suryaarumugam2021@gmail.com]**
+- 📫 Contact me: **suryaarumugam2021@gmail.com**
 - 🌐 Portfolio: [thunderous-cascaron-dc8b57.netlify.app](https://thunderous-cascaron-dc8b57.netlify.app/)
 
 ---
@@ -24,7 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
@@ -44,7 +43,7 @@
 |--------|-------------|------------|
 | 🔬 **Brain Tumor Detection** | Detects and classifies tumors using YOLOv12 + Dilated CNN | PyTorch, OpenCV |
 | 🧠 **EEG-Controlled Home Automation** | Controls devices via brain signals using ADS1299 + ML | Raspberry Pi, Python |
-| 🚗 **Self-Driving Car** | Lane detection, obstacle avoidance, self-parking | Computer Vision, Pi, Python |
+| 🚗 **Self-Driving Car** | Lane detection, obstacle avoidance, self-parking | Computer Vision, Raspberry Pi, Python |
 | 💸 **Currency Recognition** | AI-based currency detection system for visually impaired | OpenCV, Raspberry Pi |
 
 ---
@@ -61,7 +60,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surya-a-luci/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surya-a-luci/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suryaarumugam2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thunderous-cascaron-dc8b57.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
