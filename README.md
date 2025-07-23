@@ -1,4 +1,4 @@
-# SURYA
+
 <h1 align="center">Hi 👋, I'm SURYA A</h1>
 <h3 align="center">Electronics & Communication Engineering Student | Python & AI Enthusiast</h3>
 
@@ -13,7 +13,7 @@
 - 🎓 Final year B.E. student, **University College of Engineering, Kancheepuram**
 - 💡 Passionate about **Artificial Intelligence**, **Computer Vision**, and **IoT Projects**
 - 🧪 Project areas: **Brain Tumor Detection**, **Self-Driving Vehicles**, **EEG Signal Processing**, and **Currency Recognition**
-- 📫 Contact me: **[your_email@example.com]**
+- 📫 Contact me: **[suryaarumugam2021@gmail.com]**
 - 🌐 Portfolio: [thunderous-cascaron-dc8b57.netlify.app](https://thunderous-cascaron-dc8b57.netlify.app/)
 
 ---
@@ -61,8 +61,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surya-a-luci/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suryaarumugam2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thunderous-cascaron-dc8b57.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
