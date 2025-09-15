@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-💡 Final-year **ECE Student** passionate about **AI, Computer Vision, and Data Science**.  
+💡 **ECE GRADUATE** passionate about **AI, Computer Vision, and Data Science**.  
 🎯 I enjoy building **real-world projects** with **Python, Raspberry Pi, and ML/DL frameworks**.  
 🌱 Currently learning **Data Science & Machine Learning**.  
 💼 Aspiring to work at **Infosys** and explore cutting-edge AI solutions.  
