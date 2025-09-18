@@ -65,8 +65,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Computer%20Vision%20%7C%20IoT-blueviolet?style=for-the-badge"/>  
   <img src="https://img.shields.io/badge/Loves-Building%20Projects-green?style=for-the-badge"/>  
   <img src="https://img.shields.io/badge/Currently_Learning-Data%20Science-orange?style=for-the-badge"/>  
-  <img src="https://img.shields.io/badge/Goal-Infosys-blue?style=for-the-badge"/>  
-</p>
+  </p>
 
 ---
 
