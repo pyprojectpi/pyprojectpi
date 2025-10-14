@@ -51,6 +51,16 @@
 
 ---
 
+
+## 📄 Resume
+<p align="center">
+  <a href="https://github.com/pyprojectpi/pyprojectpi/raw/main/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
+  </a>
+</p>
+
+
+
 ## 📂 Featured Projects  
 - 🔹 [Brain Tumor Detection with YOLOv12 + Dilated CNN](https://github.com/pyprojectpi)  
 - 🔹 [Skin Cancer Detection (DC-YOLOv12-ELFEN)](https://github.com/pyprojectpi)  
