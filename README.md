@@ -18,6 +18,12 @@
 - ⚡ Fun fact: I love **turning ideas into working prototypes**  
 
 ---
+## 📄 Resume
+<p align="center">
+  <a href="https://github.com/pyprojectpi/pyprojectpi/raw/main/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack  
 <p align="center">  
@@ -52,12 +58,6 @@
 ---
 
 
-## 📄 Resume
-<p align="center">
-  <a href="https://github.com/pyprojectpi/pyprojectpi/raw/main/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
-  </a>
-</p>
 
 
 
