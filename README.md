@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="YOUR_UPLOADED_IMAGE_URL_OR_RELATIVE_PATH.png" width="100%" alt="Surya A Profile Banner" />
+  <img src="Add a heading.png" width="100%" alt="Surya A Profile Banner" />
 </p>
 
 ---
