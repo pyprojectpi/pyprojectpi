@@ -1,11 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=SURYA%20A&fontSize=50&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VISION%20ENGINEER-COGNEX-0072ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20COMPUTER%20VISION%20%7C%20DATA%20SCIENCE-00c6ff?style=for-the-badge" />
+  <img src="YOUR_UPLOADED_IMAGE_URL_OR_RELATIVE_PATH.png" width="100%" alt="Surya A Profile Banner" />
 </p>
 
 ---
@@ -77,23 +72,6 @@ Vision Engineer at Cognex with practical experience building and deploying end-t
 * **B.E. in Electronics and Communication Engineering (ECE)**
   * University College of Engineering, Kancheepuram – Anna University *(2021 – 2025)*
   * **CGPA:** 7.54
-
----
-
-## Analytics & Insights
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=pyprojectpi&show_icons=true&theme=tokyonight" height="190"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyprojectpi&layout=compact&theme=tokyonight" height="190"/>  
-</p>
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyprojectpi&theme=tokyonight" alt="streak" width="49%"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyprojectpi&theme=tokyonight" alt="details" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pyprojectpi&label=Engineered%20Profile%20Views&color=0072ff&style=flat-square" alt="views" />
-</p>
 
 ---
 
